@@ -9,7 +9,7 @@ export default function Footer() {
             <div>
               <img
                 src="/logoDriver.png"
-                alt="Drive Consultoria Empresarial"
+                alt="Driver Consultoria Empresarial"
                 className="h-20 mb-4"
               />
               <p className="text-gray-400">
@@ -38,8 +38,8 @@ export default function Footer() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail size={18} />
-                  <a href="mailto:contato@driveconsultoria.com.br" className="hover:text-white transition-colors">
-                    contato@driveconsultoria.com.br
+                  <a href="mailto:contato@driverconsultoria.com.br" className="hover:text-white transition-colors">
+                    contato@driverconsultoria.com.br
                   </a>
                 </div>
               </div>
@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} Drive Consultoria Empresarial. Todos os direitos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Driver Consultoria Empresarial. Todos os direitos reservados.</p>
           </div>
         </div>
       </div>

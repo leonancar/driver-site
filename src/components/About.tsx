@@ -7,7 +7,7 @@ export default function About() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              Sobre a Drive Consultoria
+              Sobre a Driver Consultoria
             </h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto"></div>
           </div>
@@ -15,7 +15,7 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                A Drive Consultoria Empresarial é especializada em transformar pequenas e médias empresas
+                A Driver Consultoria Empresarial é especializada em transformar pequenas e médias empresas
                 em operações organizadas, lucrativas e prontas para crescer de forma sustentável.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">

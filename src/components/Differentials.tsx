@@ -44,7 +44,7 @@ export default function Differentials() {
             </h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              O que torna a Drive Consultoria a parceira ideal para transformar seu negócio
+              O que torna a Driver Consultoria a parceira ideal para transformar seu negócio
             </p>
           </div>
 

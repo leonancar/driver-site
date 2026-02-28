@@ -33,14 +33,14 @@ export default function HowItWorks() {
   ];
 
   return (
-    <section id="como-funciona" className="py-20 bg-white scroll-mt-20">
+    <section id="metodologia" className="py-20 bg-white scroll-mt-20">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">Como Funciona</h2>
+            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">Metodologia</h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Nossa metodologia comprovada em 4 etapas para transformar seu negócio
+              Do diagnóstico à execução: conheça as 4 etapas do nosso processo consultivo que identifica seus pontos fortes e maximiza a eficiência operacional do seu negócio.
             </p>
           </div>
 

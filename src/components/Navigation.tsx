@@ -1,9 +1,8 @@
 const links = [
   { href: '#sobre', label: 'Sobre' },
   { href: '#areas-atuacao', label: 'Atuação' },
-  { href: '#como-funciona', label: 'Como Funciona' },
+  { href: '#metodologia', label: 'Metodologia' },
   { href: '#faq', label: 'FAQ' },
-  { href: '#diagnostico', label: 'Diagnóstico' },
 ];
 
 export default function Navigation() {

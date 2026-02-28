@@ -10,7 +10,7 @@ export default function Hero() {
           <div className="mb-8 flex justify-center">
             <img
               src="/logoDriver.png"
-              alt="Drive Consultoria Empresarial"
+              alt="Driver Consultoria Empresarial"
               className="h-[354px] w-auto"
             />
           </div>
@@ -20,7 +20,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl sm:text-2xl mb-12 text-gray-300 leading-relaxed">
-            A Drive Consultoria Empresarial ajuda pequenas e médias empresas a estruturarem suas finanças,
+            A Driver Consultoria Empresarial ajuda pequenas e médias empresas a estruturarem suas finanças,
             fortalecerem vendas e criarem processos eficientes para crescer com segurança.
           </p>
 

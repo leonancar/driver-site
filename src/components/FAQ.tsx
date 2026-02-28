@@ -5,7 +5,7 @@ const faqs = [
       'Você responde um formulário rápido e nossa equipe analisa os pontos críticos da sua operação para indicar prioridades de melhoria.',
   },
   {
-    question: 'A Drive atende apenas São Paulo capital?',
+    question: 'A Driver atende apenas São Paulo capital?',
     answer:
       'Não. Atendemos empresas em São Paulo capital, Grande São Paulo, interior paulista e também projetos remotos em toda a região Sudeste.',
   },
